@@ -44,4 +44,12 @@ TEMP
 - GitHub는 git이라는 기술을 기반으로 만든 플랫폼
   - GitHub에서 만들었는데, GitHub를 마이크로소프트가 인수함
 
+### 다양한 버전 관리 시스템
+- 이름 변경
+  - 최종.hwp, 최종1.hwp, 최종2.hwp
+- 자동저장 기능
+- git 이전의 버전 관리 시스템
+  - SVN, CVS, Mercurial
+- 요즘엔 git이 거의 표준이 됨
+
 
