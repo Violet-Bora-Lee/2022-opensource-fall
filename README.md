@@ -39,6 +39,9 @@ TEMP
 
 >  대표적으로 쓰이는 버전 관리 시스템(Version Control Sysem, VCS)
 
-
+### git과 GitHub의 차이점
+- git은 버전 관리 시스템이다
+- GitHub는 git이라는 기술을 기반으로 만든 플랫폼
+  - GitHub에서 만들었는데, GitHub를 마이크로소프트가 인수함
 
 
