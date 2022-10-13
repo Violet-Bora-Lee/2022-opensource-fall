@@ -88,3 +88,11 @@ TEMP
   - git commit 하고 엔터친 후, abc 입력
 13. .gitignore파일의 역할
 14. 브랜치는 언제 만드는가?
+15. 브랜치 관련 명령어
+  - 현재 생성된 브랜치 목록 확인하기: git branch
+  - abc라는 이름을 가진 브랜치 만들기: git branch abc
+  - abc 브랜치로 이동해서 작업할 준비하기: git checkout abc / git switch abc
+  - abc라는 이름을 가진 브랜치 만들고, 해당 브랜치로 이동해서 작업할 준비하기: git checkout -b abc
+16. a라는 브랜치를 b라는 브랜치로 병합할 때,
+  - 1. b라는 브랜치 체크아웃하기
+  - 2. git merge a
